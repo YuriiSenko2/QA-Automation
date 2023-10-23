@@ -1,0 +1,1 @@
+{'id': 'ff8081818905fd0e018921b471671069', 'name': 'Apple MacBook Pro 37', 'createdAt': '2023-08-14T16:20:20.967+00:00', 'data': {'year': 2023, 'price': 1949.99, 'CPU model': 'Intel Core i90', 'Hard disk size': '2 TB'}}
