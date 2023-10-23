@@ -20,7 +20,7 @@ def test_signin():
     time.sleep(1)
     password_locator = '//input[@type="password" and @id="CustomerPassword"]'
     input_password = web_driver_wait.until(EC.presence_of_element_located(('xpath', password_locator)))
-    input_password.send_keys('Qwerty12345', Keys.ENTER)
+    input_password.send_keys('Mypassword12345', Keys.ENTER)
     time.sleep(3)
 
     usernames = ['Yurii', 'Yuriy']
